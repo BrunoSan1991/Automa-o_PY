@@ -1,7 +1,7 @@
 .venv/
-mashup
-excesso_na_planilha
-titulos_extraidos
-links_gerados
-mashups_nao_encontrados
-faltando_na_planilha
+mashup.xlsx
+excesso_na_planilha.txt
+titulos_extraidos.txt
+links_gerados.txt
+mashups_nao_encontrados.txt
+faltando_na_planilha.txt
