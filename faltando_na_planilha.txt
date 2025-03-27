@@ -1,0 +1,19 @@
+Advanced-KPI
+bi-era.com_listbox
+Climber KPI
+Custom Bar charts
+DateRangePicker
+Export Button
+Field UI
+High-Density Scatter
+inputVariable
+QS Side Menu
+Simple KPI
+SimpleFieldSelect
+Tabela_simples
+TableBox
+Variable
+YQ_am_Barra
+YQ_am_Coluna
+YQ_am_Heat_Map
+YQ_am_Pizza
